@@ -1,1 +1,1 @@
-First ever attempt at a game. My original files and documentation were lost.
+First ever attempt at a game. My original files, full levels, enemy sprities and documentation were lost. When decompiled out of yacc the engine will only load a platform stage as the room with only horizontal and vertical movement avaliable for the character sprite.
